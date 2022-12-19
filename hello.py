@@ -1,1 +1,1 @@
-print("hello world")
+print(hex(48))
